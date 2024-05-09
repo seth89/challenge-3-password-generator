@@ -4,3 +4,7 @@
 
 ![alt text](challenge3.png)
 
+GitHub-pages: https://github.com/seth89/challenge-3-password-generator 
+Link to website: https://seth89.github.io/challenge-3-password-generator/
+
+
